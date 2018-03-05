@@ -7,7 +7,7 @@ expr = 10;
 % data setting                                                                                      
 d = 100;n=1000;r=2;model='model';signal='small';maxIt = 500;
 
-%step sizes
+% step sizes
 eta1_para= 0; eta2_para= 0.3; 
 
 % thresholding parameter

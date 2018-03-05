@@ -1,3 +1,2 @@
 # nonconvex-LVGGM
-This is the implementation of a fast nonconvex algorithm for latent variable Gaussian graphical models.
-
+This is the implementation of a fast nonconvex algorithm for latent variable Gaussian graphical models. The algorithm is displayed in ["Speeding Up Latent Variable Gaussian Graphical Model Estimation via Nonconvex Optimization"](https://papers.nips.cc/paper/6789-speeding-up-latent-variable-gaussian-graphical-model-estimation-via-nonconvex-optimization), Pan Xu, Jian Ma, Quanquan Gu, NIPS 2017.
